@@ -1,7 +1,3 @@
-# Udacity Front-end Nanodegree - Project 
-
-https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?v=fe1
-
 ## Website Performance Optimization
 
 ### Optimization steps for PageSpeed
@@ -39,6 +35,6 @@ In views/js/main.js
 
 You can download the code, unzip it, then open index.html, or test it on github page: 
 
-https://direction123.github.io/Udacity-Performance-Optimization/index.html
+https://direction123.github.io/Performance-Optimization/index.html
 
-https://direction123.github.io/Udacity-Performance-Optimization/views/pizza.html
+https://direction123.github.io/Performance-Optimization/views/pizza.html
